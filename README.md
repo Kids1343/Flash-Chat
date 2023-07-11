@@ -3,6 +3,9 @@ The app has a cloud-based NoSQL database and safe authentication mechanisms than
 
 
 ![image](https://github.com/Kids1343/Flash-Chat/assets/84654265/6200d2ef-febc-4355-a386-123920cebe52)
+![image](https://github.com/Kids1343/Flash-Chat/assets/84654265/bf4d049e-881b-4188-9e1f-df00ab3bf844)
+![image](https://github.com/Kids1343/Flash-Chat/assets/84654265/e2a370fd-6045-4644-8c31-ac51d91cb051)
+
 
 
 
