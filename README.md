@@ -1,18 +1,32 @@
-# Flash-Chat ⚡️
-The app has a cloud-based NoSQL database and safe authentication mechanisms thanks to a Flutter application that uses Firebase Cloud Firestore and the Firebase authentication package.
+![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
-![image](https://github.com/Kids1343/Flash-Chat/assets/84654265/6200d2ef-febc-4355-a386-123920cebe52)
-![image](https://github.com/Kids1343/Flash-Chat/assets/84654265/bf4d049e-881b-4188-9e1f-df00ab3bf844)
-![image](https://github.com/Kids1343/Flash-Chat/assets/84654265/e2a370fd-6045-4644-8c31-ac51d91cb051)
+# Flash Chat ⚡️
+
+## Our Goal
+
+The objective of this tutorial is to learn how to incorporate Firebase into our Flutter apps. We'll be using Firebase Cloud Firestore as well as the Firebase authentication package to equip our app with a cloud based NoSQL database and secure authentication methods.
+
+
+## What you will create
+
+We’re going to build a modern messaging app where users can sign up and log in to chat.
+
+![Finished App](https://github.com/londonappbrewery/Images/blob/master/flash_chat_flutter_demo.gif)
+
+## What you will learn
+
+- How to incorporate Firebase into your Flutter projects.
+- How to use Firebase authentication to register and sign in users.
+- How to create beautiful animations using the Flutter Hero widget.
+- How to create custom aniamtions using Flutter's animation controller.
+- Learn all about mixins and how they differ from superclasses.
+- Learn about Streams and how they work.
+- Learn to use ListViews to build scrolling views.
+- How to use Firebase Cloud Firestore to store and retrieve data on the fly.
 
 
 
+>This is a companion project to The App Brewery's Complete Flutter Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
 
-# Aspects of the project
-### Incorporate Firebase into the Flutter projects.
-### Used Firebase authentication to register and sign in users.
-### Created beautiful animations using the Flutter Hero widget.
-### Created custom aniamtions using Flutter's animation controller.
-### Used Firebase Cloud Firestore to store and retrieve data on the fly.
-
+![End Banner](https://github.com/londonappbrewery/Images/blob/master/readme-end-banner.png)
